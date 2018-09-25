@@ -1,0 +1,4 @@
+github.com/google/zoekt v0.0.0-20180530125106-8e284ca7e964 h1:VK6ybufPG5M7YQLLdf4VgR+NE1zOZ/fZLFFrNWQmab0=
+github.com/google/zoekt v0.0.0-20180530125106-8e284ca7e964/go.mod h1:rq17mlD02KZEKl5IJj0kPYUrH5dBVi/J5Ipcgnxvm94=
+golang.org/x/net v0.0.0-20180925072008-f04abc6bdfa7 h1:zKzVgSQ8WOSHzD7I4k8LQjrHUUCNOlBsgc0PcYLVNnY=
+golang.org/x/net v0.0.0-20180925072008-f04abc6bdfa7/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
