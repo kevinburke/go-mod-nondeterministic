@@ -1,0 +1,7 @@
+# github.com/google/zoekt v0.0.0-20180530125106-8e284ca7e964 => github.com/sourcegraph/zoekt v0.0.0-20180925141536-852b3842c11d
+github.com/google/zoekt
+github.com/google/zoekt/query
+# golang.org/x/net v0.0.0-20180925072008-f04abc6bdfa7
+golang.org/x/net/trace
+golang.org/x/net/context
+golang.org/x/net/internal/timeseries
